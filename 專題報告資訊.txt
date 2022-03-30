@@ -1,0 +1,4 @@
+a)軟體：程式語言、套裝軟體、資料庫、作業系統、讀哪些書
+
+程式語言:Python,Arduino,
+Openpose,Windows

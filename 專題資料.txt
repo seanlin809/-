@@ -1,0 +1,21 @@
+關鍵字:
+
+action recognition
+Openpose
+
+
+
+==============================================================================
+參考資料:
+
+學習檔案
+https://ithelp.ithome.com.tw/articles/10234486
+偵測老人是否跌倒，即時通知家人或看護
+http://iotlab.eecs.stust.edu.tw/index.php?inter=topic&q=14
+
+
+==============================================================================
+Github:
+
+Openpose
+https://github.com/CMU-Perceptual-Computing-Lab/openpose
